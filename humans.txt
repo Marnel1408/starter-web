@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Marnel Capitle marnel.capitle@accenture.com
 
 # THANKS
 
